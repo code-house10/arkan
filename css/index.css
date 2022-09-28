@@ -52,7 +52,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -139,7 +139,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -222,7 +222,7 @@ input:focus, textarea:focus, select:focus
 }
 #LayoutGrid2-divider-bottom .divider-fill
 {
-   fill: #A33F47;
+   fill: #008069;
    transform-origin: bottom;
    transform: rotateY(0deg);
 }
@@ -689,7 +689,7 @@ input:focus, textarea:focus, select:focus
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -746,7 +746,7 @@ input:focus, textarea:focus, select:focus
 }
 #wb_CardContainer5
 {
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -961,7 +961,7 @@ input:focus, textarea:focus, select:focus
 }
 #wb_planTripLayoutGrid
 {
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -1026,7 +1026,7 @@ input:focus, textarea:focus, select:focus
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -1500,7 +1500,7 @@ input:focus, textarea:focus, select:focus
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -1596,7 +1596,7 @@ input:focus, textarea:focus, select:focus
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -2072,7 +2072,7 @@ width: 100%;}
    display: table;
    text-align: center;
    width: 100%;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-sizing: border-box;
@@ -2562,7 +2562,7 @@ width: 100%;}
    color: #FFFFFF;
    border: 0px solid #2E2E2E;
    border-radius: 0px;
-   background-color: #A33F47;
+   background-color: #008069;
    font-family: Cairo;
    font-weight: bold;
    font-size: 16px;
@@ -2747,7 +2747,7 @@ width: 100%;}
    flex-direction: column;
    box-sizing: border-box;
    margin: 0;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #DEDEDE;
    border-radius: 16px;
@@ -3008,7 +3008,7 @@ body
 {
    visibility: visible;
    display: table;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-shadow: 0px 0px 0px #000000;
@@ -3121,7 +3121,7 @@ body
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -3180,7 +3180,7 @@ body
 {
    visibility: visible;
    display: block;
-   background-color: #A33F47;
+   background-color: #008069;
    background-image: none;
    border: 0px solid #CCCCCC;
    box-shadow: 0px 0px 0px #000000;
@@ -3533,7 +3533,7 @@ body
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -3620,7 +3620,7 @@ body
    border-radius: 50%;
    background-color: #FFFFFF;
    background-image: none;
-   color: #A33F47;
+   color: #008069;
    font-family: Arial;
    font-weight: normal;
    font-style: normal;
@@ -4104,7 +4104,7 @@ body
 {
    color: #FFFFFF;
    border: 0px solid #2E2E2E;
-   background-color: #A33F47;
+   background-color: #008069;
    font-family: Cairo;
    font-weight: bold;
    font-size: 16px;
@@ -4116,7 +4116,7 @@ body
    color: #FFFFFF;
    border: 0px solid #2E2E2E;
    border-radius: 0px;
-   background-color: #A33F47;
+   background-color: #008069;
    font-family: Cairo;
    font-weight: bold;
    font-size: 16px;
@@ -4127,18 +4127,18 @@ body
 #headerPanelMenu_markup li a:hover
 {
    color: #FFFFFF;
-   background-color: #A33F47;
+   background-color: #008069;
    border: 0px solid #2E2E2E;
 }
 #wb_headerPanelMenu a:hover
 {
    color: #FFFFFF;
-   background-color: #A33F47;
+   background-color: #008069;
    border: 0px solid #2E2E2E;
 }
 #headerPanelMenu_panel
 {
-   background-color: #A33F47;
+   background-color: #008069;
    overflow-y: auto;
 }
 #wb_headerBreadcrumb
